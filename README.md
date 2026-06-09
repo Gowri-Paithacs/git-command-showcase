@@ -1,25 +1,50 @@
 # Git Command Showcase
 
-## Clone Repository
-git clone https://github.com/Gowri-Paithacs/git-command-showcase.git
+## Introduction
+This repository is created to understand Git commands and GitHub workflow.
 
-## Check Status
-git status
+---
 
-## Stage Files
-git add .
+## Features
+- Beginner-friendly Git commands
+- Version control practice
+- Markdown documentation
 
-## Commit Changes
-git commit -m "message"
+---
 
-## Push Changes
-git push
+## Git Commands
 
-## Pull Latest Changes
-git pull
+### 🔹 Basic Commands
+- git clone → Copy repository
+- git status → Check changes
+- git add . → Stage changes
+- git commit -m "message" → Save changes
+- git push → Upload to GitHub
+- git pull → Get updates
 
-## Create Branch
-git checkout -b branch-name
+### 🌿 Branching
+- git checkout -b branch-name → Create branch
 
-## Git Stash
-git stash
+### Stash
+- git stash → Save work temporarily
+
+---
+
+## Tools Used
+
+| Tool | Purpose |
+|------|--------|
+| Git | Version Control |
+| GitHub | Code Hosting |
+| VS Code | Editor |
+| Markdown | Documentation |
+
+---
+
+## Links
+- GitHub: https://github.com
+- Git Docs: https://git-scm.com/docs
+
+---
+
+## Thank You!
