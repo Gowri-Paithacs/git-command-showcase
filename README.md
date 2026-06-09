@@ -14,7 +14,7 @@ This repository is created to understand Git commands and GitHub workflow.
 
 ## Git Commands
 
-### 🔹 Basic Commands
+### Basic Commands
 - git clone → Copy repository
 - git status → Check changes
 - git add . → Stage changes
@@ -22,7 +22,7 @@ This repository is created to understand Git commands and GitHub workflow.
 - git push → Upload to GitHub
 - git pull → Get updates
 
-### 🌿 Branching
+### Branching
 - git checkout -b branch-name → Create branch
 
 ### Stash
